@@ -1,0 +1,24 @@
+{
+  "name": "One_Month_Calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAdamUs/One_Month_Calendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrAdamUs/One_Month_Calendar/issues"
+  },
+  "homepage": "https://MrAdamUS.github.io/One_Month_Calendar"
+}
